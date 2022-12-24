@@ -1,0 +1,35 @@
+Work Breakdown Agreement 
+	Team members: 
+	1. Chantelle Loh Yi Wei 
+	2. Gan Leong Yi
+
+Production,testing and review of code 
+	: Chantelle  
+		* Zombie's attack (bite and punch), with varying probability  
+		* Zombie's healing after biting 
+		* Zombie picking up the item 
+		* Zombie says "brains"
+		* Farmer sowing crop
+		* Farmer fertilise crop 
+		* Creating crop that will ripen
+		* Farmer and Player harvest crop 
+		* Healing after eating food 
+	: Gan  
+		* Knocking off Zombie's Limb 
+		* Zombie's limb creation 
+		* Manipulating probability of punching and dropping weapon based on number 
+		  of arms 
+		* Manipulating movement speed based on number of legs 
+		* Dropping limb should be at the ground 
+		* Cast off zombie limb can be wielded as simple club 
+		* Crafting Zombie club and Zombie mace
+		* Resurrection of Zombie 
+
+The above tasks (Production,testing and review of code) needs to be completed before 22/5 (Week 9 Friday).
+
+Signature of the above agreement 
+Chantelle Loh Yi Wei: 
+I accept this WBA.
+
+Gan Leong Yi:
+I accept this WBA.

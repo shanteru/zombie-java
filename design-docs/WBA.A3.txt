@@ -1,0 +1,44 @@
+Work Breakdown Agreement 
+	Team members: 
+	1. Chantelle Loh Yi Wei 
+	2. Gan Leong Yi
+
+Production, testing and review of code 
+	: Chantelle 
+		# Creation of vehicle 
+			# Implementation of moving from wild to town
+			# Implementation of moving from town to wild 
+		# Ending game functionalities 
+			# An extra option in menu 
+			# "Player loses already" functionalities 
+			# "Player wins already" functionalities 
+		# Currency System (Bonus)
+			# Wallet class in Player
+			# deduction/increase of money 
+			during transantion 
+	
+	: Gan
+		# Sniper and shogun 
+			# bullet + reloading action 
+			# Firing the sniper 
+				# Concentration of the player 
+					# reduced when hurt / change action 
+					# concentration higher, damage and probability higher
+			# Firing the shotgun
+		# Mambo Marie 
+			# appearing and disappearing
+			# chanting 
+		# Shop (Bonus)
+			# buying transaction 
+			# selling transaction
+		# Craft Shop (bonus)
+			# craft Golden Sniper and Shotgun using 
+			Gold 
+			
+The above tasks (Production,testing and review of code) needs to be completed before 22/5 (Week 9 Friday).
+
+Signature of the above agreement 
+Chantelle Loh Yi Wei: 
+I accept this WBA.
+Gan Leong Yi:
+I accept this WBA.
